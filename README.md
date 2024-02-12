@@ -1,5 +1,5 @@
 ### Hi there I'm Steppa AKA The API Artist👋
-Welcomoe to my profile.. feed your eyes😉
+Welcome to my profile.. feed your eyes😉
 <!--
 **SteppaCodes/SteppaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
