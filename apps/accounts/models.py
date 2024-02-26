@@ -5,6 +5,7 @@ import uuid
 
 #Local imports
 from .managers import CustomUserManager
+from apps.common.models import BaseModel
 
 class User(AbstractBaseUser, PermissionsMixin):
     id = models.UUIDField(default=uuid.uuid4, primary_key=True, editable=False, unique=True)
@@ -38,3 +39,4 @@ class User(AbstractBaseUser, PermissionsMixin):
         if self.dev_name:
             return self.dev_name
         return self.full_name
+

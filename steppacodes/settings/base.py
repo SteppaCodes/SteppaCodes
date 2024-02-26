@@ -29,7 +29,11 @@ THIRD_PARTY_APPS = [
     "whitenoise",
 ]
 
-LOCAL_APPS = ["apps.accounts", "apps.projects"]
+LOCAL_APPS = [
+    "apps.accounts", 
+    "apps.projects",
+    "apps.common"
+    ]
 
 
 AUTH_USER_MODEL = "accounts.User"
