@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:  #FBE1FB;
+    line-height: 1.5em;
+    font-size: 16px;
+    font-family: "poppins", sans-serif;
+    color: #272727
+}
+
+.container {
+    max-width: 1100px;
+    padding: 20px 40px;
+    margin: auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+
+#home {
+    text-align: center;
+    height: 95vh;
+    padding: 20px;
+    background: rgb(2,0,36);
+    background: linear-gradient(117deg, rgba(2,0,36,1) 0%, rgba(232,95,219,1) 0%, rgba(167,90,189,1) 95%);
+  
+    }
+  
+
+nav li {
+    margin-right: 30px;
+    background-color: #f7f4f4;
+    padding: 04px 20px;
+    border-radius: 20px;
+}
+
+.nav-item {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
+
+
+.nav-item svg {
+    width: 18px;
+    height: 18px;
+    margin: 0 6px 0 0;
+}
+
+.home-active{
+    background-color: #272727;
+    color: #fff;
+    font-weight: bold;
+  }
+
+  
+.hero h1 {
+    margin-top: 200px;
+    margin-bottom: 40px;
+    font-size: 64px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.hero p {
+    font-size: 20px;
+    line-height: 1.5em;
+    margin-bottom: 30px;
+}
+
+
+.skill {
+    font-weight: bold;
+    
+}
+
+
+.project-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.project-btn svg {
+    width: 12px;
+    height: 12px;
+    margin-left: 10px;
+}
+
+.btn-black {
+    background-color: #272727;
+    display: flex;
+    align-items: center;
+    padding: 15px 40px;
+    border-radius: 15px;
+    font-weight: normal;
+}
+
+
+
+.page-title {
+    font-weight:bold;
+    font-size: 32px;
+    margin: 50px 0;
+}
+#about-me {
+    height: 80vh;
+    display: flex;
+}
+
+#about-me p {
+    margin: 70px 0;
+}
+
+#projects {
+    background-color: #272727;
+    color: #f7f4f4;
+    margin-bottom: 500px;
+}
+
+h4 {
+    font-size: 24px;
+    margin: 30px 0;
+    padding-bottom: 30px;
+}
+
+
+.project-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+
+.project-card img {
+    max-width: 50%;
+    margin-left: 0;
+}
+
+
+.project-card:nth-of-type(even) {
+    flex-direction: row-reverse;
+}
+
+
+.project-info {
+    margin-left: 70px;
+    display: flex;
+    max-width:100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.project-card:nth-of-type(even) .project-info{
+    margin-left: 0;
+}
+
+.link-btns {
+    display:flex;
+    align-items: center;
+}
+
+.link-btns a {
+    color: #fff;
+}
+
+
+.link-btn {
+    margin-right: 20px;
+    margin-top: 30px;
+    padding: 5px 25px;
+    border-radius: 50PX;
+}
+
+.site-btn {
+    border: 2px solid #abaaaa;
+    color: #abaaaa;
+}
+
+.repo-btn {
+    background-color: #9d22f5;
+    border: 2px solid #9d22f5;
+}
+

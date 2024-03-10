@@ -17,3 +17,15 @@ class Project(BaseModel):
     def __str__(self):
         return self.title
 
+    @property
+    def image_url(self):
+        try:
+            url = self.image.url
+        except:
+            url = ""
+        return url
+    
+
+
+
+
