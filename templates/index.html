@@ -1,0 +1,161 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SteppaCodes</title>
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <section id="home">
+      <div class="container">
+        <header>
+          <nav>
+            <ul>
+              <a href="#"
+                ><li class="active home-active">
+                  <div class="nav-item">
+                    <svg
+                      viewBox="0 0 21 22"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M1.25 11.1887C1.25 9.07138 1.25 8.01318 1.731 7.13628C2.21015 6.25845 3.08797 5.71455 4.8427 4.6249L6.6927 3.47698C8.54733 2.32535 9.4751 1.75 10.5 1.75C11.5249 1.75 12.4517 2.32535 14.3073 3.47698L16.1573 4.6249C17.912 5.71455 18.7899 6.25845 19.2699 7.13628C19.75 8.01318 19.75 9.07138 19.75 11.1878V12.5956C19.75 16.2031 19.75 18.0078 18.6659 19.1289C17.5827 20.25 15.8382 20.25 12.35 20.25H8.65C5.16183 20.25 3.41727 20.25 2.3341 19.1289C1.25 18.0078 1.25 16.2041 1.25 12.5956V11.1887Z"
+                        stroke="#FDF9F9"
+                        stroke-width="3"
+                      />
+                      <path
+                        d="M10.5 13.775V16.55"
+                        stroke="#FDF9F9"
+                        stroke-width="3"
+                        stroke-linecap="round"
+                      />
+                    </svg>
+                    <span>Home</span>
+                  </div>
+                </li></a
+              >
+              <a href="#"
+                ><li>
+                  <div class="nav-item">
+                    <svg
+                      viewBox="0 0 21 22"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M1.25 11.1887C1.25 9.07138 1.25 8.01318 1.731 7.13628C2.21015 6.25845 3.08797 5.71455 4.8427 4.6249L6.6927 3.47698C8.54733 2.32535 9.4751 1.75 10.5 1.75C11.5249 1.75 12.4517 2.32535 14.3073 3.47698L16.1573 4.6249C17.912 5.71455 18.7899 6.25845 19.2699 7.13628C19.75 8.01318 19.75 9.07138 19.75 11.1878V12.5956C19.75 16.2031 19.75 18.0078 18.6659 19.1289C17.5827 20.25 15.8382 20.25 12.35 20.25H8.65C5.16183 20.25 3.41727 20.25 2.3341 19.1289C1.25 18.0078 1.25 16.2041 1.25 12.5956V11.1887Z"
+                        stroke="#FDF9F9"
+                        stroke-width="2"
+                      />
+                      <path
+                        d="M10.5 13.775V16.55"
+                        stroke="#FDF9F9"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                      />
+                    </svg>
+                    <span>About Me</span>
+                  </div>
+                </li></a
+              >
+              <a href="#"
+                ><li>
+                  <div class="nav-item">
+                    <svg
+                      viewBox="0 0 24 20"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M1.32143 10.7917V19.5H22.6786V10.7917M12 14.75V11.5833M8.71429 3.66667C8.71429 3.66667 8.71429 0.5 12 0.5C15.2857 0.5 15.2857 3.66667 15.2857 3.66667M23.5 3.66667H0.499999V10C0.499999 10 5.42857 13.1667 12 13.1667C18.5714 13.1667 23.5 10 23.5 10V3.66667Z"
+                        stroke="black"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      />
+                    </svg>
+                    <span>My Projects</span>
+                  </div>
+                </li></a
+              >
+              <a href="#"
+                ><li>
+                  <div class="nav-item">
+                    <svg
+                      viewBox="0 0 25 22"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M0.5 21.5L2.23199 16.388C0.735077 14.2098 0.193563 11.6304 0.708129 9.12932C1.2227 6.62821 2.75833 4.37563 5.0295 2.79038C7.30067 1.20513 10.1528 0.395103 13.0557 0.5109C15.9585 0.626696 18.7145 1.66044 20.8112 3.41993C22.908 5.17941 24.2027 7.54491 24.4548 10.0766C24.7068 12.6083 23.8991 15.1339 22.1816 17.1838C20.4642 19.2337 17.954 20.6685 15.1177 21.2213C12.2814 21.7741 9.31208 21.4073 6.76179 20.1892L0.5 21.5Z"
+                        stroke="black"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      />
+                    </svg>
+                    <span>Contact Me</span>
+                  </div>
+                </li></a
+              >
+            </ul>
+          </nav>
+        </header>
+      </div>
+
+      <div class="container">
+        <div class="hero">
+          <h1>{{user.dev_name}}</h1>
+          <p>
+            Hello, I'm {{user.full_name}}, a
+            <span class="skill"><br />Backend Developer</span>
+          </p>
+        </div>
+        <a href="#" style="color: #fff">
+          <div class="project-btn">
+            <div class="btn-black">
+              <p>My Projects</p>
+              <svg
+                viewBox="0 0 16 19"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M7.29289 18.7071C7.68342 19.0976 8.31658 19.0976 8.70711 18.7071L15.0711 12.3431C15.4616 11.9526 15.4616 11.3195 15.0711 10.9289C14.6805 10.5384 14.0474 10.5384 13.6569 10.9289L8 16.5858L2.34315 10.9289C1.95262 10.5384 1.31946 10.5384 0.928932 10.9289C0.538407 11.3195 0.538407 11.9526 0.928932 12.3431L7.29289 18.7071ZM7 -4.37114e-08L7 18L9 18L9 4.37114e-08L7 -4.37114e-08Z"
+                  fill="#FDF8F8"
+                />
+              </svg>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div style="margin-top: 200px"></div>
+    </section>
+
+    <section id="about-me">
+      <div class="container">
+        <h3 class="page-title">About Me</h3>
+        <p>
+          lorem ipsum dolor dnsgfjs rhiwjrwkajjkabf alrjrreorkteohgjegnskgns
+          gnksonr;kgnwoirngosirgsj rshrjgwljhrghksjbfghlhgs gwhjgtslhjghn;t
+          etihntlk;hkth'ktnent ntlwrgnlw/kgnrph fisjrhjsbfhgbsgbnsgbsrgbsngs
+          gjlriowh;ikgtthjks gsjkrhwkerjhskrg,s gjklwrhskjrgs
+          brtgkwtjhw/kjalj4lhtethrenjdsnklgnsgjhgs ris gsir sigl hsig si gsi
+          gsbi ghiog sgworgs golsg hsireh;l erosg so
+        </p>
+      </div>
+    </section>
+
+    
+  </body>
+</html>
