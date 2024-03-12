@@ -171,7 +171,6 @@ nav li {
 h4 {
     font-size: 24px;
     margin: 30px 0;
-    padding-bottom: 30px;
 }
 
 
@@ -202,9 +201,9 @@ h4 {
     justify-content: space-between;
 }
 
-.project-card:nth-of-type(even) .project-info{
+/* .project-card:nth-of-type(even) .project-info{
     margin-left: 0;
-}
+} */
 
 .link-btns {
     display:flex;
@@ -313,3 +312,24 @@ button {
     padding: 15px 140px;
     border-radius: 10px;
 }
+
+
+@media(max-width:1100px){
+    .hero h1 {
+        font-size:50px;
+    }
+    .project-card {
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        margin:0;
+        width:100%;
+        padding:0;
+    }
+    .project-card img{
+       width:500px
+    }
+}
+    
+
+
