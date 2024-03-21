@@ -194,7 +194,7 @@
         <h4>APIs</h4>
         {% for  project in projects %}
         <div class="project-card">
-          <img src="{{project.image_url}}" alt="screenshot" />
+          <img class="img" src="{{project.image_url}}" alt="screenshot" />
           <div class="project-info">
             <h3 style="text-transform:uppercase">{{project.title}}</h4>
             <p>
@@ -242,7 +242,7 @@
                       <p class="field-err">{{form.name.errors}}</p>
                     </fieldset>
                   </div>
-                  <div>
+                  <div class="input">
                     <fieldset>
                       {{form.email}}
                       <p class="field-err">{{form.email.errors}}</p>
@@ -250,7 +250,7 @@
                   </div>
                 </div>
                 
-                <div>
+                <div class="input">
                   <fieldset class="textbox">
                     {{form.message}}
                     <p class="field-err">{{form.text.errors}}</p>
