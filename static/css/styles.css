@@ -82,7 +82,7 @@ nav li {
 }
 
 .hero p {
-    font-size: 25px;
+    font-size: 20px;
     line-height: 1.5em;
     margin-bottom: 30px;
 }
@@ -334,10 +334,6 @@ button {
     }
     #home {
         height: 90vh;
-    }
-
-    .hero {
-        margin-top: 230px;
     }
 
     .project-card {
