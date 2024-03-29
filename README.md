@@ -1,5 +1,6 @@
 ### Hi there I'm Steppa AKA The API Artist👋
 
+
 **About Me**: 
 
 🐍 Django Developer with an undying love for crafting APIs in the most exquisite ways possible.
@@ -11,6 +12,7 @@
 🎨 Consider me the Picasso of backend development - each project is a canvas, and I paint it with the finest strokes of code with the end goal of creating a masterpiece.
 
 💻 My mantra: Stick to the Code - because clean, efficient code is where the true artistry lies.
+
 
 **My Expertise**:
 
