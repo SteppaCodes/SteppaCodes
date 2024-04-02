@@ -24,6 +24,7 @@
 
 🧰 Lifelong Learner: My journey in backend development is a never-ending quest for excellence.
 
+👀 Looking to dive into web3 development with python.
 
 Here's to Better, Cleaner, and More Efficient Code! 🥂
 
