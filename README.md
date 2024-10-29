@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 👋 Introduction
 
-Hi there! I’m Steppa, also known as The API Artist. As a Django developer, I’m dedicated to crafting APIs in the most exquisite ways possible. I approach backend development as an art form, earning the nickname "The API Artist" because I treat each project as a canvas, meticulously shaping every detail to create efficient and impactful solutions—true masterpieces.
+Hi there! I’m Steppa, also known as **The API Artist**. As a Django developer, I’m dedicated to crafting APIs in the most exquisite ways possible. I approach backend development as an art form, earning the nickname "The API Artist" because I treat each project as a canvas, meticulously shaping every detail to create efficient and impactful solutions—true masterpieces.
 
 ### 🎨 Expertise and Skills
 
-With over two years of experience, my expertise lies in building APIs that are not only highly functional but also robust and scalable. Python and Django are my core tools, which I use to design structured, maintainable applications that meet real-world demands. My development philosophy is anchored in the principle “Stick to the Code” — a commitment to writing clean, efficient, and refined code, where the true artistry of backend development shines.
+With **over two years of experience**, my expertise lies in building APIs that are not only highly functional but also robust and scalable.** Python** and **Django** are my core tools, which I use to design structured, maintainable applications that meet real-world demands. My development philosophy is anchored in the principle “Stick to the Code” — a commitment to writing clean, efficient, and refined code, where the true artistry of backend development shines.
 
 ### 🚀 Growth Mindset
 
