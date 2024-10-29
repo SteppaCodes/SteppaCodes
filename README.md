@@ -1,32 +1,3 @@
-### Hi there I'm Steppa AKA The API Artist👋
-
-
-**About Me**: 
-
-🐍 Django Developer with an undying love for crafting APIs in the most exquisite ways possible.
-
-💡 Always in pursuit of knowledge and constantly pushing the boundaries of what's possible.
-
-🌟 I specialize in creating APIs that aren't just functional, but scalable, robust, and downright mesmerizing.
-
-🎨 Consider me the Picasso of backend development - each project is a canvas, and I paint it with the finest strokes of code with the end goal of creating a masterpiece.
-
-💻 My mantra: Stick to the Code - because clean, efficient code is where the true artistry lies.
-
-
-**My Expertise**:
-
-🐍 Python/Django: My palette of choice for creating API masterpieces. Well-versed in Django MVT architecture.
-
-💡 API Development: Transforming concepts into living, breathing APIs is my passion.
-
-🚀 Scalability & Efficiency: I'm all about crafting APIs that can handle anything thrown their way.
-
-🧰 Lifelong Learner: My journey in backend development is a never-ending quest for excellence.
-
-👀 Looking to dive into web3 development with python.
-
-Here's to Better, Cleaner, and More Efficient Code! 🥂
 
 <!--
 **SteppaCodes/SteppaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,3 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 👋 Introduction
+
+Hi there! I’m Steppa, also known as The API Artist. As a Django developer, I’m dedicated to crafting APIs in the most exquisite ways possible. I approach backend development as an art form, earning the nickname "The API Artist" because I treat each project as a canvas, meticulously shaping every detail to create efficient and impactful solutions—true masterpieces.
+
+### 🎨 Expertise and Skills
+
+With over two years of experience, my expertise lies in building APIs that are not only highly functional but also robust and scalable. Python and Django are my core tools, which I use to design structured, maintainable applications that meet real-world demands. My development philosophy is anchored in the principle “Stick to the Code” — a commitment to writing clean, efficient, and refined code, where the true artistry of backend development shines.
+
+### 🚀 Growth Mindset
+
+Driven by a constant pursuit of knowledge, I push the boundaries of what’s possible in API design, viewing each project as an opportunity to refine my skills and make an impact.
+
+### 🖼️ Welcome to My Code Gallery
+
+Welcome to my code gallery, where each line is crafted with precision and purpose. Let’s create something extraordinary together.
