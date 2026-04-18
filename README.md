@@ -1,32 +1,38 @@
+### Introduction
 
-<!--
-**SteppaCodes/SteppaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m Steppa, also known as The API Artist.
 
-Here are some ideas to get you started:
+I build backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What started with APIs became something deeper: structuring, shaping, and refining the systems behind real products. I still approach it the same way: every system is a canvas, every decision intentional.
 
+---
 
-### 👋 Introduction
+### Expertise and Skills
 
-Hi there! I’m Steppa, also known as **The API Artist**. As a Django developer, I’m dedicated to crafting APIs in the most exquisite ways possible. I approach backend development as an art form, earning the nickname "The API Artist" because I treat each project as a canvas, meticulously shaping every detail to create efficient and impactful solutions—true masterpieces.
+With 5+ years of experience, I work across backend engineering.
 
-### 🎨 Expertise and Skills
+Python, Django, and Go are my core tools used to build APIs, services, and systems that are structured, scalable, and built to last.
 
-With **over two years of experience**, my expertise lies in building APIs that are not only highly functional but also robust and scalable.** Python** and **Django** are my core tools, which I use to design structured, maintainable applications that meet real-world demands. My development philosophy is anchored in the principle “Stick to the Code” — a commitment to writing clean, efficient, and refined code, where the true artistry of backend development shines.
+---
 
-### 🚀 Growth Mindset
+### Philosophy
 
-Driven by a constant pursuit of knowledge, I push the boundaries of what’s possible in API design, viewing each project as an opportunity to refine my skills and make an impact.
+“Stick to the Code.”
 
-### 🖼️ Welcome to My Code Gallery
+Clean. Deliberate. Understood.
 
-Welcome to my code gallery, where each line is crafted with precision and purpose. Let’s create something extraordinary together.
+I care about how systems are designed just as much as how they run.
+Clarity over noise. Structure over shortcuts.
+
+---
+
+### The Seventeen
+
+Technical Co-founder of The Seventeen.
+
+---
+
+This is my code gallery.
+
+Each project is a reflection of how I think, not just what I build.
